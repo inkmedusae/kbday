@@ -38,7 +38,7 @@ body {
 .picContainer {
     position: absolute;
     left: 50%;
-    top: 40%;
+    top: 60%;
     transform: translate(-75%, -50%);
     z-index: -3;
     margin: 5rem;
